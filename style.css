@@ -28,18 +28,6 @@ audio {
   max-width: 400px;
   margin-top: 10px;
 }
-.scene {
-  margin: 40px auto;
-  text-align: center;
-}
-
-.scene img {
-  width: 90%;
-  max-width: 800px;
-  height: auto;
-  display: block;
-  margin-bottom: 10px;
-}
 
 .credits {
   font-size: 10px;
